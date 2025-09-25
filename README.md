@@ -1,4 +1,4 @@
-# Labyrinth  
+# The Labyrinth netstack
 
 A network system implemented in C that builds up parts of the OSI model (L2, L4, L5) – and finishes with an application that solves a maze.  
 This project was developed as part of a take-home exam at the University of Oslo, and demonstrates **network programming, protocol implementation, and algorithmic problem solving**.  
